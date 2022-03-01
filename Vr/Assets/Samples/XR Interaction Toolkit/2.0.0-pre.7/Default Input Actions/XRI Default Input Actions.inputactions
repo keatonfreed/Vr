@@ -1091,7 +1091,7 @@
             "id": "c388713e-dc14-4b35-b479-aa38b04caee8",
             "actions": [
                 {
-                    "name": "New action",
+                    "name": "Jump",
                     "type": "Button",
                     "id": "7239f0c2-e09f-43c6-b0c3-03e235177015",
                     "expectedControlType": "Button",
@@ -1112,19 +1112,19 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "9679ccc8-afb5-44cb-afd6-a787bef88280",
-                    "path": "",
+                    "id": "c791c571-d9c4-41e6-ab58-5870d08bd1d1",
+                    "path": "<OculusTouchController>/primaryButton",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
-                    "action": "New action",
+                    "groups": "Generic XR Controller",
+                    "action": "Jump",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "ece02dc1-7883-4f63-8e3b-79d6e3022ef2",
-                    "path": "<OculusTouchController>/primaryButton",
+                    "path": "<OculusTouchController>/secondaryButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
