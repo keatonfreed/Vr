@@ -1113,7 +1113,7 @@
                 {
                     "name": "",
                     "id": "c791c571-d9c4-41e6-ab58-5870d08bd1d1",
-                    "path": "<OculusTouchController>/primaryButton",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>/primarybutton",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
@@ -1124,7 +1124,7 @@
                 {
                     "name": "",
                     "id": "ece02dc1-7883-4f63-8e3b-79d6e3022ef2",
-                    "path": "<OculusTouchController>/secondaryButton",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerOpenXR>/secondarybutton",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
